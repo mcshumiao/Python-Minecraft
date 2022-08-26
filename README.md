@@ -1,4 +1,5 @@
 Gitee: https://gitee.com/zifanwang/minecraft.git
+
 https://gist.github.com/1713c583c230846795b4dbbfc3d378e7.git
 
 我的网站: [https://zifan.site/down/files/13/](https://zifan.site/down/files/13/)
@@ -37,3 +38,10 @@ https://gist.github.com/1713c583c230846795b4dbbfc3d378e7.git
 Beta 1.1    [附加者:mc_shu_miao in 2022/08/26]
 
 Beta 0.1.0 - 第一个Beta版本
+
+## 配置(必须这么做!)
+
+下载python3环境
+
+使用 pip install pyglet 和 pip install numba 两条命令下载package
+
